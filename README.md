@@ -29,4 +29,5 @@ TDspora:SynGen is a Python library that aims to facilitate the synthesis and gen
 Clone this repository to your local machine or open it in a GitHub Codespace:
 
 ```sh
-git clone https://github.com/yourusername/tdspora-syngen-tutorial.git
+https://github.com/tdspora/SynGen-guide.git)https://github.com/tdspora/SynGen-guide.git
+```

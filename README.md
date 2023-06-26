@@ -1,7 +1,32 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# TDspora:SynGen Tutorial Codespace
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Welcome to the TDspora:SynGen tutorial codespace! This repository contains a collection of Jupyter notebooks that demonstrate how to use the TDspora:SynGen Python library for training machine learning models on tabular data.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+![TDspora:SynGen Banner](path-to-banner-image) 
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [Jupyter Notebooks](#jupyter-notebooks)
+- [Contribute](#contribute)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+
+TDspora:SynGen is a Python library that aims to facilitate the synthesis and generation of tabular data, particularly for machine learning applications. Whether you are a beginner or an experienced data scientist, these Jupyter notebooks will guide you through the key features and capabilities of the TDspora:SynGen library.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.9+
+- Jupyter
+
+### Installation
+
+Clone this repository to your local machine or open it in a GitHub Codespace:
+
+```sh
+git clone https://github.com/yourusername/tdspora-syngen-tutorial.git
